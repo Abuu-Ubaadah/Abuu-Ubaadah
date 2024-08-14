@@ -1,5 +1,5 @@
 - 👋 Ahla wa Sahla, I’m @Abuu-Ubaadah from Indonesia.
-- ✨ Wish I was like you ... always ready ... perfect codie ... maybe I'd try harder ... you'd lower your expert standards ...
+- ✨ Wish I was like you ... always ready ... perfect codie ... maybe I'd try harder ... You'd lower your expert standards ...
 - 👀 I’m interested in Software Engineering and Halal Business Developing.
 - 🌱 I’m currently learning Markup Languages of HTML5 and CSS3, then also PHP, and JS.
 - 💞️ I’m looking to collaborate on anything we can discuss.
