@@ -7,6 +7,10 @@
 - 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: An odd sunni muslim youth who's unexpectly becoming right here.
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammad-yzd-s-aa5159316/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]()
+
+
 <!---
 Abuu-Ubaadah/Abuu-Ubaadah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
